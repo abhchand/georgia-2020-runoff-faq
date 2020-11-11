@@ -44,7 +44,7 @@ Ballots take time to arrive and time to return, sometimes several weeks. Please 
 You have 2 options -
 
 * You can drop off your ballot at a dropbox anytime before 7PM on Jan 5, 2021. You can find a [list of dropboxes near you here](https://www.ajc.com/politics/where-are-absentee-ballot-drop-boxes-in-metro-atlanta/YWWVPFUDFZF5ZB6JLH5S33UIEU/).
-* You can return your ballot via USPS mail. It must arrive before 7PM on Jan 5, 2021
+* You can return your ballot via USPS mail. It must arrive before 7PM on Jan 5, 2021. It is heavily recommended you mail your ballot by Dec 15 to gurantee it reaches in time.
 
 
 ### Can I vote Early in-Person? Where do I vote?
