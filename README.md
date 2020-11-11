@@ -7,7 +7,7 @@ On **Jan 5, 2021** you'll get a chance to vote for the following races:
 * David Perdue (R) vs Jon Ossoff (D)
 * Kelly Loeffler (R) vs Raphael Warnock (D)
 
-None of these candidates won 50% of the vote in the November election, and by Georgia law a runoff election is held to determinee a winner.
+None of these candidates won 50% of the vote in the November election, and by Georgia law a runoff election is held to determine a winner.
 
 # Why Is this so Important?
 
