@@ -54,6 +54,16 @@ Yes! Advanced in Person (early) voting begins on Dec 14, 2020.
 You can find your designated polling location by logging in to your [Georgia My Voter Page](https://www.mvp.sos.ga.gov/MVP/mvp.do)
 
 
+### I'm an out-of-state College Student - can I register to vote?
+
+Yes! If you are living on campus or off campus in Georgia, you are eligible to register before the deadline of Dec 7, 2020.
+
+If you are in Georgia but live off-campus, you can use the street address of your off-campus housing in Georgia to register. You can do this even if you voted in another state for the General Election! [1]
+
+[See this guide for more info](https://campuselect.org/voter-education/candidate-issue-guides/student-voter-guide-for-georgia-2020-primary-election/)
+
+[1] : [/r/georgia](https://old.reddit.com/r/Georgia/comments/jor25e/attention_georgia_voters_re_upcoming_georgia/))
+
 
 ### What if I my Mail-In/Absentee never arrives or I need a new one?
 
