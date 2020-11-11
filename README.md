@@ -17,7 +17,7 @@ Georgia has also had incredibly poor turnouts for runoffs, so it's that much mor
 
 # FAQ
 
-**Can I register if I haven't already?**
+### Can I register if I haven't already?
 
 Yes! You can still register by Dec 7, 2020 to vote in the runoff election.
 
@@ -26,11 +26,11 @@ You must be 18 years of age on or before that date.
 You can register on the [Georgia My Voter Page](https://www.mvp.sos.ga.gov/MVP/mvp.do) (click the `Register` button):
 
 
-**Can I Vote By Mail/Absentee?**
+### Can I Vote By Mail/Absentee?
 
 Yes! You can request a ballot at https://ballotrequest.sos.ga.gov/
 
-**How Do I return my Mail-In/Absentee ballot?**
+### How Do I return my Mail-In/Absentee ballot?
 
 You have 2 options -
 
@@ -38,14 +38,14 @@ You have 2 options -
 * You can return your ballot via USPS mail. It must arrive before 7PM on Jan 5, 2021
 
 
-**Can I vote in Early in-Person? Where do I vote?**
+### Can I vote in Early in-Person? Where do I vote?
 
 Yes! Advanced in Person (early) voting begins on Dec 14, 2020.
 
 You can find your designated polling location by logging in to your Georgia My Voter Page: https://www.mvp.sos.ga.gov/MVP/mvp.do
 
 
-**What if I my Mail-In/Absentee never arrives or I need a new one?**
+### What if I my Mail-In/Absentee never arrives or I need a new one?
 
 It is possible to cancel your ballot and request a new one.
 
@@ -54,6 +54,6 @@ Alternatively, you can also go in person and let the polling location know you h
 The [Georgia Voter Guide](https://faq.georgiavoter.guide/en/article/what-to-do-if-youve-lost-never-received-or-need-to-cancel-your-absentee-ballot-and-vote-in-person) has more detailed information on handling missing or voided ballots.
 
 
-**How Do I check the status of my Mail-In/Absentee ballot?**
+### How Do I check the status of my Mail-In/Absentee ballot?
 
 You can log in to the [Georgia My Voter Page](https://www.mvp.sos.ga.gov/MVP/mvp.do) and check
