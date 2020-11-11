@@ -62,7 +62,7 @@ If you are in Georgia but live off-campus, you can use the street address of you
 
 [See this guide for more info](https://campuselect.org/voter-education/candidate-issue-guides/student-voter-guide-for-georgia-2020-primary-election/)
 
-[1] : [/r/georgia](https://old.reddit.com/r/Georgia/comments/jor25e/attention_georgia_voters_re_upcoming_georgia/))
+[1] : [/r/georgia](https://old.reddit.com/r/Georgia/comments/jor25e/attention_georgia_voters_re_upcoming_georgia/)
 
 
 ### What if I my Mail-In/Absentee never arrives or I need a new one?
