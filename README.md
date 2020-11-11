@@ -26,9 +26,11 @@ You must be 18 years of age on or before that date.
 You can register on the [Georgia My Voter Page](https://www.mvp.sos.ga.gov/MVP/mvp.do) (click the `Register` button):
 
 
-### Can I Vote By Mail/Absentee?
+### Can I Vote By Mail/Absentee? How do I request a bllot?
 
-Yes! You can request a ballot at https://ballotrequest.sos.ga.gov/
+Yes! You can request a ballot online at https://ballotrequest.sos.ga.gov/
+
+You can also request a ballot by mail, phone, or fax. See the [Georgia State](https://georgia.gov/vote-absentee-ballot) registration page for more information.
 
 ### How Do I return my Mail-In/Absentee ballot?
 
