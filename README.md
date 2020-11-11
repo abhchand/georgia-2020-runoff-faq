@@ -42,7 +42,7 @@ You have 2 options -
 
 Yes! Advanced in Person (early) voting begins on Dec 14, 2020.
 
-You can find your designated polling location by logging in to your Georgia My Voter Page: https://www.mvp.sos.ga.gov/MVP/mvp.do
+You can find your designated polling location by logging in to your [Georgia My Voter Page](https://www.mvp.sos.ga.gov/MVP/mvp.do)
 
 
 ### What if I my Mail-In/Absentee never arrives or I need a new one?
