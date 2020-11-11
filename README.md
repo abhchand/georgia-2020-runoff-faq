@@ -76,4 +76,6 @@ The [Georgia Voter Guide](https://faq.georgiavoter.guide/en/article/what-to-do-i
 
 ### How Do I check the status of my Mail-In/Absentee ballot?
 
-You can log in to the [Georgia My Voter Page](https://www.mvp.sos.ga.gov/MVP/mvp.do) and check
+You can log in to the [Georgia My Voter Page](https://www.mvp.sos.ga.gov/MVP/mvp.do) and check.
+
+You can also use the popular [BallotTrax Tool](https://georgia.ballottrax.net/voter/). It is not affiliated with the governmeent, but it is an endorsed 3rd party (the GA secretary of state site even links there).
