@@ -26,11 +26,18 @@ You must be 18 years of age on or before that date.
 You can register on the [Georgia My Voter Page](https://www.mvp.sos.ga.gov/MVP/mvp.do) (click the `Register` button):
 
 
-### Can I Vote By Mail/Absentee? How do I request a bllot?
+### Can I Vote By Mail/Absentee? How do I request a ballot?
 
 Yes! You can request a ballot online at https://ballotrequest.sos.ga.gov/
 
 You can also request a ballot by mail, phone, or fax. See the [Georgia State](https://georgia.gov/vote-absentee-ballot) registration page for more information.
+
+---
+**NOTE**
+
+Ballots take time to arrive and time to return, sometimes several weeks. Please request your ballot **AS SOON AS POSSIBLE** to avoid any delays.
+
+---
 
 ### How Do I return my Mail-In/Absentee ballot?
 
@@ -45,6 +52,7 @@ You have 2 options -
 Yes! Advanced in Person (early) voting begins on Dec 14, 2020.
 
 You can find your designated polling location by logging in to your [Georgia My Voter Page](https://www.mvp.sos.ga.gov/MVP/mvp.do)
+
 
 
 ### What if I my Mail-In/Absentee never arrives or I need a new one?
