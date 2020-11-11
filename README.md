@@ -47,7 +47,7 @@ You have 2 options -
 * You can return your ballot via USPS mail. It must arrive before 7PM on Jan 5, 2021
 
 
-### Can I vote in Early in-Person? Where do I vote?
+### Can I vote Early in-Person? Where do I vote?
 
 Yes! Advanced in Person (early) voting begins on Dec 14, 2020.
 
